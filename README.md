@@ -1,47 +1,47 @@
- Business Sale Dashboard – Power BI Project
-This repository contains the Business Sale Dashboard created using Power BI (.pbip project format).
+# Business Sale Dashboard – Power BI Project 📊
+
+This repository contains the **Business Sale Dashboard** created using **Power BI (.pbip project format)**. [attached_file:1]
+
 It provides interactive insights into sales performance, product trends, customer behavior, and overall business growth to support data-driven decisions.
 
+## 🚀 Overview
 
-🚀 Overview
 This dashboard helps businesses:
 
-Analyze total sales, revenue, and profit
-Identify top-selling and low-performing products
-Understand customer segments and buying patterns
-View category-wise and region-wise sales trends
-Use interactive filters and KPIs for deeper exploration
-🛠️ Tools & Technologies Used
-| Tool / Technology | Purpose | | Power BI (.pbip) | Visual reporting & model generation | | Power Query | Data cleaning & transformation | | DAX | KPIs and calculated measures | | Data Model | Relationships between tables |
+- Analyze total sales, revenue, and profit
+- Identify top-selling and low-performing products
+- Understand customer segments and buying patterns
+- View category-wise and region-wise sales trends
+- Use interactive filters and KPIs for deeper exploration
 
-📑 Key Features
-✔ Sales Overview
-Total Sales
-Revenue & profit visuals
-Month-over-month / Year-over-year comparison
-KPI cards
-✔ Product Performance
-Best-selling products
-Category analysis
-Profitability breakdown
-✔ Customer Insights
-Customer segmentation
-Purchase behavior
-Average order value
-✔ Interactive Filtering
-Date slicer
-Region / Category filters
-Drill-through & drill-down visuals
-📥 How to Use
-Download the Business sale.pbip file
-Open it using the latest Power BI Desktop
-Allow Power BI to load the project (Model + Reports)
-Refresh the data if required
-Explore all dashboard pages and visuals
-🤝 Contributing
-Contributions are welcome!
+## 🛠️ Tools & Technologies Used
 
-Fork this repository
-Create a feature branch
-Commit your changes
-Submit a pull request
+| Tool / Technology | Purpose |
+|-------------------|---------|
+| **Power BI (.pbip)** | Visual reporting & model generation |
+| **Power Query** | Data cleaning & transformation |
+| **DAX** | KPIs and calculated measures |
+| **Data Model** | Relationships between tables |
+
+## 📑 Key Features
+
+### ✔ **Sales Overview**
+- Total Sales
+- Revenue & profit visuals
+- Month-over-month / Year-over-year comparison
+- KPI cards
+
+### ✔ **Product Performance**
+- Best-selling products
+- Category analysis
+- Profitability breakdown
+
+### ✔ **Customer Insights**
+- Customer segmentation
+- Purchase behavior
+- Average order value
+
+### ✔ **Interactive Filtering**
+- Date slicer
+- Region / Category filters
+- Drill-through & drill-down visuals
